@@ -1,5 +1,5 @@
 <%@page import="java.util.Set"%>
-<%@page import="com.nilesen.aw.onestop.bean.URLEntry"%>
+<%@page import="com.pravatpanda.onestop.bean.URLEntry"%>
 <%@page import="java.util.List"%>
 <%@page import="java.util.Map"%>
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
@@ -16,8 +16,8 @@ if("glory".equals(request.getParameter("style"))){%>
 }%>
 
 	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-	<meta name="description" content="All Nielsen urls" />
-	<meta name="keywords" content="Nielsen-one-stop, one stop, useful urls" />
+	<meta name="description" content="All urls" />
+	<meta name="keywords" content="one-stop, one stop, useful urls" />
 	<script type="text/javascript" src="./js/jquery.min.js"></script>
 </head>
 <body>
@@ -65,8 +65,8 @@ if("glory".equals(request.getParameter("style"))){%>
 			<div>Choose A Style</div>
 		</div-->
 		<div class="center pageTitle">
-			<div class="pageHead">Welcome To Nielsen-One-Stop</div>
-			<div class="pageQuote">Your ultimate destination to all Nielsen Urls !</div>
+			<div class="pageHead">Welcome To One-Stop</div>
+			<div class="pageQuote">Your ultimate destination to all Url access !</div>
 		</div>
 		<form action="<%=request.getContextPath()%>/displayAddUI.nos" id="aForm">
 			<div class="right">

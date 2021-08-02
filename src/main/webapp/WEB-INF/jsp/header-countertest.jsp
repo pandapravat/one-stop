@@ -1,5 +1,5 @@
 <%@page import="java.util.Set"%>
-<%@page import="com.nilesen.aw.onestop.bean.URLEntry"%>
+<%@page import="com.pravatpanda.onestop.bean.URLEntry"%>
 <%@page import="java.util.List"%>
 <%@page import="java.util.Map"%>
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"

@@ -16,39 +16,39 @@ public class ApplicationGroup {
 	private List<URLEntry> ue;
 
 
-	/**
-	 * Gets groupname.
-	 *
-	 * @return the groupname
-	 */
-	public String getGroupname() {
+    /**
+     * Gets groupname.
+     *
+     * @return the groupname
+     */
+    public String getGroupname() {
 		return Groupname;
 	}
 
-	/**
-	 * Sets groupname.
-	 *
-	 * @param groupname the groupname
-	 */
-	public void setGroupname(String groupname) {
+    /**
+     * Sets groupname.
+     *
+     * @param groupname the groupname
+     */
+    public void setGroupname(String groupname) {
 		Groupname = groupname;
 	}
 
-	/**
-	 * Gets ue.
-	 *
-	 * @return the ue
-	 */
-	public List<URLEntry> getUe() {
+    /**
+     * Gets ue.
+     *
+     * @return the ue
+     */
+    public List<URLEntry> getUe() {
 		return ue;
 	}
 
-	/**
-	 * Sets ue.
-	 *
-	 * @param ue the ue
-	 */
-	public void setUe(List<URLEntry> ue) {
+    /**
+     * Sets ue.
+     *
+     * @param ue the ue
+     */
+    public void setUe(List<URLEntry> ue) {
 		this.ue = ue;
 	}
 	

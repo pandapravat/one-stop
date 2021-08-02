@@ -10,9 +10,18 @@ import org.springframework.jdbc.core.JdbcTemplate;
 
 import javax.sql.DataSource;
 
+/**
+ * The type Onestop configuration.
+ */
 @Configuration
 public class OnestopConfiguration {
 
+    /**
+     * Template jdbc template.
+     *
+     * @param ds the ds
+     * @return the jdbc template
+     */
     public JdbcTemplate template(DataSource ds) {
         return new JdbcTemplate(ds);
     }
