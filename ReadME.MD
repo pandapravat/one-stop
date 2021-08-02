@@ -12,8 +12,6 @@ One stop support 2 user types
 - Admin - Can create/view the data that it has created and some data that the super admin has created. It can also edit/remove them.
 - Super Admin - Can create data for all other users and it can also create some data that only the super admin can see and edit.
 
-## Database
-
 ## Running the application
 Checkout the code and run using ```mvn spring-boot:run``` command. Then hit url ```localhost:8080``` using your favorite browser
 ## Configurations
