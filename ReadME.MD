@@ -32,15 +32,15 @@ onestop.superuser.name=superadmin
 onestop.superuser.pass=super-password
 ```
 ## Screenshots
-###Main Screen - Default user
+### Main Screen - Default user
 ![View Data screen](readme-imges/main-screen-default-user.JPG)
-###Main Screen - Admin user
+### Main Screen - Admin user
 ![View Data screen](readme-imges/main-screen-admin-user.JPG)
-###Main Screen - Super user
+### Main Screen - Super user
 ![View Data screen](readme-imges/main-screen-super-user.JPG)
-###Login Screen
+### Login Screen
 ![Login screen](readme-imges/login.jpg)
-###Create/Edit Screen - Admin User
+### Create/Edit Screen - Admin User
 ![Login screen](readme-imges/edit-screen-admin-user.JPG)
 ### Create/Edit Screen - Super User
 ![Login screen](readme-imges/main-screen-super-user.JPG)
